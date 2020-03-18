@@ -10,7 +10,7 @@ Kullanım:
   
   
   
-  Executable lar **dist** klasörlerinin içinde 
+  Executable lar **dist** klasörlerinin içinde olucak
 
 Çalıştırma:
 ------
