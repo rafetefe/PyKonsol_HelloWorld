@@ -9,6 +9,7 @@ Kullanım:
   ``pyinstaller --onefile hello_world.py``
   
   
+  
   Executable lar **dist** klasörlerinin içinde 
 
 Çalıştırma:
@@ -16,10 +17,10 @@ Kullanım:
   Linux ek adım:
   
   
-    ``$ chmod +x /dist/hello_world``
+    $ chmod +x /dist/hello_world
     
     
-    ``$ ./hello_world``
+    $ ./hello_world
     
     
 
